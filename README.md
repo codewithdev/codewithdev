@@ -7,12 +7,8 @@
 - 👯 Networking and Building Community is 💖 Collabarate with me in anything. I am a quick Learner.
 - 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/idevprakaash)
-
-[Facebook](https://www.facebook.com/beliked3v)
-
+[LinkedIn](https://www.linkedin.com/in/idevprakaash)<p><p><br>[Facebook](https://www.facebook.com/beliked3v)
 [Twitter](https://www/twitter.com/devtweeets)
-
 [Portfolio Blog](https://www.codewithhdev.github.io)
     
 - 😄 Pronouns: Dev+eloper
