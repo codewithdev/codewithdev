@@ -1,8 +1,6 @@
-#### Hey Amigos! 👨‍💻
+<style text-align= center>Hey, I'm Dev</style>
 
-#### This is Dev
-
-- 🔭 I'm advocated with interest in Technology like Front End Technologies; NodeJS, ExpressJS, React, ML/AI Enthusiast.Programmer & Coder
+- 🔭 Currently Learning NodeJS,Svelte,MERN,
 - 🌱 I'm currently learning Flask, NodeJS, ExpressJS and React.
 - 👯 Networking and Building Community is 💖 Collabarate with me in anything. I am a quick Learner.
 - 📫 How to reach me:
