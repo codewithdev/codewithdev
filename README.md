@@ -13,7 +13,7 @@
 - [Portfolio Blog](https://www.codewithhdev.github.io)
     
 - 😄 Pronouns: Dev+eloper
-- ⚡ Fun fact about me: Maybe I am an AVL Tree.😁
+- ⚡ Fun fact about me:An AVL Tree.😁
 
 
 #### _Code is Life_
