@@ -3,6 +3,7 @@
   <a href="https://github.com/codewithdev" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/0o48UoR.png" width="40" height="40" alt="GitHub" title="GitHub"></a>
   <a href="https://twitter.com/devtweeets" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/tXSoThF.png" width="40" height="40" alt="Twitter" title="Twitter"></a>
   <a href="https://www.facebook.com/belied3v" class="fancybox" target="_blank" rel="external"><img src="http://i.imgur.com/P3YfQoD.png" width="40" height="40" alt="Facebook" title="Facebook"></a>
+  <a href="https://www.linkedin.com/in/idevprakaash" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/niuwa8T_d.webp?maxwidth=728&fidelity=grand" width="40" height="40" alt="Facebook" title="Facebook"></a>
 </p>
 
 
