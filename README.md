@@ -5,7 +5,7 @@
   <a href="https://www.facebook.com/belied3v" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/VgkNYXI_d.webp?maxwidth=728&fidelity=grand" width="40" height="38" alt="Facebook" title="Facebook"></a>
   <a href= "https://www.instagram.com/beliked3v" class= "fancybox" target="_blank" rel= "external"><img src= "https://i.imgur.com/M6yBwxS.png" width="40" height="38" alt= "Instagram" title= "Instagram"></a>
   <a href="https://www.linkedin.com/in/idevprakaash" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/niuwa8T_d.webp?maxwidth=728&fidelity=grand" width="40" height="40" alt="LinkedIn" title="LinekdIn"></a>
-    <a href="https://www.codewithdev.me/" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/PvgnFa1_d.webp?maxwidth=728&fidelity=grand" width="40" height="40" alt="Portfolio" title="Portfolio"></a>
+    <a href="https://www.codewithdev.me/" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/PvgnFa1_d.webp?maxwidth=728&fidelity=grand" width="45" height="46" alt="Portfolio" title="Portfolio"></a>
 </p>
 
 
