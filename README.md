@@ -12,9 +12,9 @@
 [![](https://mermaid.ink/img/eyJjb2RlIjoicGllIHRpdGxlIExhbmd1YWdlL1NraWxsc1xuXHRcIkMvQysrXCIgOiAxODlcblx0XCJQeXRob25cIiA6IDEwNVxuXHRcIkphdmFTY3JpcHRcIiA6NjVcbiAgXG5cdFx0XHRcdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/docs/mermaid-live-editor-beta/#/edit/eyJjb2RlIjoicGllIHRpdGxlIExhbmd1YWdlL1NraWxsc1xuXHRcIkMvQysrXCIgOiAxODlcblx0XCJQeXRob25cIiA6IDEwNVxuXHRcIkphdmFTY3JpcHRcIiA6NjVcbiAgXG5cdFx0XHRcdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
 
 
-  <a href="https://github.com/codewithdev" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/J6LeoUb.png" width="40" height="37" alt="GitHub" title="GitHub"></a>
-  <a href="https://twitter.com/devtweeets" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/XlctxvH.png" width="40" height="40" alt="Twitter" title="Twitter"></a>
+  <a href="https://github.com/codewithdev" class="fancybox" target="_blank" rel="external"><img src="assets/github.png" width="40" height="40" alt="GitHub" title="GitHub"></a>
+  <a href="https://twitter.com/devtweeets" class="fancybox" target="_blank" rel="external"><img src="assets/twitter.png" width="40" height="40" alt="Twitter" title="Twitter"></a>
   <a href="https://www.linkedin.com/in/idevprakaash" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/niuwa8T_d.webp?maxwidth=728&fidelity=grand" width="40" height="40" alt="LinkedIn" title="LinekdIn"></a>
-    <a href="https://www.codewithdev.me/" class="fancybox" target="_blank" rel="external"><img src="https://i.imgur.com/PvgnFa1_d.webp?maxwidth=728&fidelity=grand" width="45" height="46" alt="Portfolio" title="Portfolio"></a>
+  <a href="https://www.codewithdev.me/" class="fancybox" target="_blank" rel="internal"><img src="assets/browser.png" width="40" height="40" alt="Portfolio" title="Portfolio"></a>
 
 
