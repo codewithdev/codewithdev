@@ -1,6 +1,6 @@
 #### Hi! I am Dev Sharma 👋
 
-## An Enthusiast Technovazy Open Source Developer, who loves to build things. I experienced to work with Algorithms in general Software Engineering, Web Developement. Currently an CS graduate, awakening my skills in ML and Data Science. 
+##### An Enthusiast Technovazy Open Source Developer, who loves to build things. I experienced to work with Algorithms in general Software Engineering, Web Developement. Currently an CS graduate, awakening my skills in ML and Data Science. 
 
 - 🔭 I got my Hands dirty on DSA, ML, Data Analysis, Machine Learning.
 - 🌱 Learning NodeJS, Svelte, Django, Flask, Python.
