@@ -13,7 +13,7 @@
 
 - 🔭 I got my Hands dirty on DSA, ML, Data Analysis, Machine Learning.
 - 🌱 Learning NodeJS, Svelte, Django, Flask, Python.
-- 👯 Ask me about Data Structure, Algorithms, Git, Python, JavaScript.   
+- 👯  I’m looking for collaborate on building communitites, and projects on ML. 
 - 😄 Pronouns: Dev+eloper
 - ⚡ Fun fact about me: An AVL Tree.😁
 
