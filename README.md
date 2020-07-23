@@ -17,5 +17,7 @@
 - ⚡ Fun fact about me: An AVL Tree.😁
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoicGllIHRpdGxlIExhbmd1YWdlL1NraWxsc1xuXHRcIkMvQysrXCIgOiAxODlcblx0XCJQeXRob25cIiA6IDEwNVxuXHRcIkphdmFTY3JpcHRcIiA6NjVcbiAgXG5cdFx0XHRcdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/docs/mermaid-live-editor-beta/#/edit/eyJjb2RlIjoicGllIHRpdGxlIExhbmd1YWdlL1NraWxsc1xuXHRcIkMvQysrXCIgOiAxODlcblx0XCJQeXRob25cIiA6IDEwNVxuXHRcIkphdmFTY3JpcHRcIiA6NjVcbiAgXG5cdFx0XHRcdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
+<p align= "center" font-size= 12em>
+<strong><i>Code is Life</i></strong>
 
-#### _Code is Life_
+</p>
