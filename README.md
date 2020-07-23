@@ -10,7 +10,7 @@
 
 
 
-- 🔭 Hands got dirty on DSA, ML, Data Analysis, Machine Learning.
+- 🔭 I got my Hands dirty on DSA, ML, Data Analysis, Machine Learning.
 - 🌱 Learning NodeJS, Svelte, Django, Flask, Python.
 - 👯 Ask me about Data Structure, Algorithms, Git, Python, JavaScript.   
 - 😄 Pronouns: Dev+eloper
