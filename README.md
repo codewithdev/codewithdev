@@ -12,7 +12,7 @@
 [![](https://mermaid.ink/img/eyJjb2RlIjoicGllIHRpdGxlIExhbmd1YWdlL1NraWxsc1xuXHRcIkMvQysrXCIgOiAxODlcblx0XCJQeXRob25cIiA6IDEwNVxuXHRcIkphdmFTY3JpcHRcIiA6NjVcbiAgXG5cdFx0XHRcdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/docs/mermaid-live-editor-beta/#/edit/eyJjb2RlIjoicGllIHRpdGxlIExhbmd1YWdlL1NraWxsc1xuXHRcIkMvQysrXCIgOiAxODlcblx0XCJQeXRob25cIiA6IDEwNVxuXHRcIkphdmFTY3JpcHRcIiA6NjVcbiAgXG5cdFx0XHRcdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
 
 
-  <a href="https://github.com/codewithdev" class="fancybox" target="_blank" rel="external"><img src="assets/2504911.svg" width="42" height="40" alt="GitHub" title="GitHub"></a>
+  <a href="https://github.com/codewithdev" class="fancybox" target="_blank" rel="external"><img src="assets/2504411.svg" width="42" height="40" alt="GitHub" title="GitHub"></a>
   <a href="https://twitter.com/devtweeets" class="fancybox" target="_blank" rel="external"><img src="assets/1409937.svg" width="42" height="42" alt="Twitter" title="Twitter"></a>
   <a href="https://www.linkedin.com/in/idevprakaash" class="fancybox" target="_blank" rel="external"><img src="assets/1409945.svg" width="42" height="42" alt="LinkedIn" title="LinekdIn"></a>
   <a href="https://www.codewithdev.me/" class="fancybox" target="_blank" rel="internal"><img src="https://i.imgur.com/PvgnFa1.jpg" width="44" height="43" alt="Portfolio" title="Portfolio"></a>
