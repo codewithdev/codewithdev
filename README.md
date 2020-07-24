@@ -10,6 +10,9 @@
 - ⚡ Fun fact about me: Productive Nocturnal
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
