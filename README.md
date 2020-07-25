@@ -11,8 +11,9 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact about me: Productive Nocturnal
 
+
+📊 **This week I spent My Time **
 <!--START_SECTION:waka-->
 ```text
-Here is my Contribution Stats
 ```
 <!--END_SECTION:waka-->
