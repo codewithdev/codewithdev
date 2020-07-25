@@ -12,7 +12,7 @@
 - ⚡ Fun fact about me: Productive Nocturnal
 
 
-📊 **This week I spent My Time **
+📊 **This week I spent My Time**
 <!--START_SECTION:waka-->
 ```text
 ```
