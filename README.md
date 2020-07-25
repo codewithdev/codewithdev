@@ -7,7 +7,7 @@
 - 🔭 I got my Hands dirty on DSA, ML, Data Analysis, Machine Learning.
 - 🌱 Learning NodeJS, Svelte, Django, Flask, Python.
 - 👯 I’m looking for collaborate on building communitites, and projects on ML. 
-- 💬 Ask me about machine learning, web developmet, and tech related career advice. [Contact me](mailto:idevprakaash@hotmail.com)
+- 💬 Ask me about ML/JavaScript/C++/Algorithms, and tech related career advice. [Contact me](mailto:idevprakaash@hotmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact about me: Productive Nocturnal
 
