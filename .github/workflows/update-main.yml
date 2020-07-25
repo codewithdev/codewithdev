@@ -15,4 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           USERNAME: codewithdev
-          SHOW_TITLE: false:  
+          SHOW_TITLE: true   
