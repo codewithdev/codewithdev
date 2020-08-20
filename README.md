@@ -1,3 +1,7 @@
+
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
+
+
 <h1 align="center" style= "font-size=100%">Hi! I am Dev 👋</h1>
 <p align= "center" style= "color:blue"><a href="https://twitter.com/devtweeets" class="fancybox" target="_blank" rel="external"><img src="https://image.flaticon.com/icons/svg/2111/2111738.svg" width="29" height="28" alt="Twitter" title="Twitter"></a>
   <a href="https://www.codewithdev.me/" class="fancybox" target="_blank" rel="internal"><img src="https://image.flaticon.com/icons/svg/2799/2799936.svg" width="28" height="29" alt="Portfolio" title="Portfolio"></a></p>
