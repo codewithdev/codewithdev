@@ -8,7 +8,7 @@
 
 #### An Enthusiast Technovazy Open Source Developer, who loves to build things. I experienced my most of the time brushing up the Algorithms, Web Developement and exploring AI/ML. Currently an CS graduate, sharpening my skills in ML and Data Science. 
 
-- 🔭 I got my Hands on DSA, ML, Data Analysis, Machine Learning.
+- 🔭 I'm always working on something cool.
 - 🌱 Learning NodeJS, Svelte, Django, Flask, Python.
 - 👯 Love to speak about the Technologies and building communities.
 - 💬 Ask me about ML/JavaScript/C++/Algorithms/Open Sourcing, and tech related career advice. [Contact me](mailto:idevprakaash@hotmail.com)
