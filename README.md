@@ -15,7 +15,7 @@
 - 💬 Ask me about ML/JavaScript/C++/Algorithms/Open Sourcing, and tech related Quries. [Contact me](mailto:idevprakaash@hotmail.com)
 - 😄 Pronouns: He/him
 - 📭 How To Reach Me- [@codewithdev](https://www.twitter.com/codewithdev)
-- ⚡ Fun fact about me: �👨‍💻🧡
+- ⚡ Fun fact about me: 👨‍💻🧡
 
 #### 👨‍💻My Weekly Stats 
 
