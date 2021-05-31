@@ -43,11 +43,12 @@
 #### An Enthusiast Technovazy Open Source Developer, who loves to build things. I spend my most of the time in brushing up the Algorithms, Web Developement and exploring AI/ML. Currently an CS graduate, and getting my hands on exploring Technologis to build things.
 
 - 🔭 I'm always working on something cool.
-- 👯 I Love to speak about the Technologies and building communities.
-- 💬 Ask me about ML/JavaScript/C++/Algorithms/Open Sourcing, and tech related career advice. [Contact me](mailto:idevprakaash@hotmail.com)
+- 👯 A Tech Speaker, Mentor who loves to teach about Coding and Technology.
+- 🍏 A Tech writer who writes stuff about Coding and Technology.
+- 💬 Ask me about ML/JavaScript/C++/Algorithms/Open Sourcing, and tech related Quries. [Contact me](mailto:idevprakaash@hotmail.com)
 - 😄 Pronouns: He/him
 - 📭 How To Reach Me- [@codewithdev](https://www.twitter.com/codewithdev)
-- ⚡ Fun fact about me: Productive Nocturnal 👨‍💻
+- ⚡ Fun fact about me: Loves playing 🎹
 
 #### 👨‍💻My Weekly Stats 
 
