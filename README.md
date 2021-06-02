@@ -6,12 +6,12 @@
 <p align= "center" style= "color:blue"><a href="https://twitter.com/codewithdev" class="fancybox" target="_blank" rel="external"><img src="https://image.flaticon.com/icons/svg/2111/2111738.svg" width="29" height="28" alt="Twitter" title="Twitter"></a>
   <a href="https://codewithdev.github.io/" class="fancybox" target="_blank" rel="internal"><img src="https://image.flaticon.com/icons/svg/2799/2799936.svg" width="28" height="29" alt="Portfolio" title="Portfolio"></a></p>
 
-#### Little Intro About Me
-  
+#### _About Me_
+
 - 🔭 I'm always working on something cool.
 - 👯 A Tech Speaker, Mentor who loves to teach about Coding and Technology.
-- 🍏 A Tech writer who writes stuff about Coding and Technology.
-- 💬 Ask me about ML/JavaScript/C++/Algorithms/Open Sourcing, and tech related Quries. [Contact me](mailto:idevprakaash@hotmail.com)
+- 🍏 A Tech writer who loves to writes stuff about Coding and Technology.
+- 💬 Ask me anything about tech related Quries or suggestions. [Contact me](mailto:idevprakaash@hotmail.com)
 - 😄 Pronouns: He/him
 - 📭 How To Reach Me- [@codewithdev](https://www.twitter.com/codewithdev)
 - ⚡ Fun fact about me: 👨‍💻🧡
