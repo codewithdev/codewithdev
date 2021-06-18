@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -19,10 +19,8 @@
    50% { transform: rotate(  0.0deg); }
   100% { transform: rotate(  0.0deg); }
 }
-    </style><h1 align="center" style="font-size=100%">Heyo <span class="wave">👋</span> I am Dev!</h1>
-<p align= "center" style= "color:blue"><a href="https://twitter.com/codewithdev" class="fancybox" target="_blank" rel="external"><img src="https://image.flaticon.com/icons/svg/2111/2111738.svg" width="29" height="28" alt="Twitter" title="Twitter"></a>
-  <a href="https://codewithdev.github.io/" class="fancybox" target="_blank" rel="internal"><img src="https://image.flaticon.com/icons/svg/2799/2799936.svg" width="28" height="29" alt="Portfolio" title="Portfolio"></a></p>
-        </div>
+    </style>
+        <span class="wave">👋</span>
     </foreignObject>
 </svg>
   
