@@ -11,7 +11,7 @@
 }
           h1{
                 font: 'Georgia';
-                }
+             }
 
 @keyframes wave-animation {
     0% { transform: rotate( 0.0deg) }
