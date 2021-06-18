@@ -9,6 +9,9 @@
   transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */
   display: inline-block;
 }
+          h1{
+                font: 'Georgia';
+                }
 
 @keyframes wave-animation {
     0% { transform: rotate( 0.0deg) }
