@@ -20,7 +20,9 @@
   100% { transform: rotate(  0.0deg); }
 }
     </style>
+            <div>
         <span class="wave">👋</span>
+            </div>
     </foreignObject>
 </svg>
   
