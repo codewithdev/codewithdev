@@ -14,7 +14,6 @@
 - 🍏 A Tech writer who loves to writes stuff about Coding and Technology.
 - 💬 Ask me anything about tech related Quries or suggestions. [Contact me](mailto:idevprakaash@hotmail.com)
 - 😄 Pronouns: He/him
-- 📭 How To Reach Me- [@codewithdev](https://www.twitter.com/codewithdev)
 - ⚡ Fun fact about me: 👨‍💻🧡
 
 #### 👨‍💻My Weekly Stats 
@@ -24,4 +23,11 @@
 C++     3 hrs 26 mins   █████████████████████████   99.87 % 
 ```
 <!--END_SECTION:waka-->
+
+
+#### Connect with Me
+[GMail](mailto:idevprakaash@gmail.com?)
+ &emsp;[LinkedIn](https://www.linkedin.com/in/idevprakaash)
+  &emsp;[Twitter](https://www.twitter.com/codewithdev)
+
 
