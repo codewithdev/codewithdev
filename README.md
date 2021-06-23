@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++     4 hrs 37 mins   █████████████████████████   99.90 % 
+C++     4 hrs 7 mins    █████████████████████████   99.89 % 
 ```
 <!--END_SECTION:waka-->
 
