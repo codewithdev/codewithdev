@@ -13,14 +13,6 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact about me: 👨‍💻🧡
 
-#### 👨‍💻My Weekly Stats 
-
-<!--START_SECTION:waka-->
-```text
-C++     3 hrs 6 mins    █████████████████████████   99.85 % 
-```
-<!--END_SECTION:waka-->
-
 
 #### Connect with Me
 [GMail](mailto:idevprakaash@gmail.com?)
