@@ -4,10 +4,10 @@
 #### _About Me_
 
 - 🔭 I'm a Open-Source Enthusiast, Coding Enthusiast, Developer and in Automation & Testing.
-- 🎲 I am passionate about Machine Learning, Web Dev, Microservices and solving Problems.
+- 🎲 I am passionate about Machine Learning, Web Dev, Microservices and Problem solving.
 - 👨‍💻 I'm always learning something new, and enjoy trying out new technologies.
+- 📚 A Tech writer who loves to write about coding and technologies.
 - ⚡ Fun fact about me: 👨‍💻🧡
-
 
 #### Connect with Me
   [<img src= "https://user-images.githubusercontent.com/44609609/124388598-3216e880-dd01-11eb-8b54-4f35a8fbd97b.png" width= "30px">](https://www.linkedin.com/in/idevprakaash)
