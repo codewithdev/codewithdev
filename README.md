@@ -3,12 +3,10 @@
 
 #### _About Me_
 
-- 🔭 I'm always working on something cool.
-- 👯 A Tech Speaker, Mentor who loves to teach about Coding and Technology.
-- 👨‍💻 Coding Enthusiast, Software Developer, Automation & Testing
-- 🍏 A Tech writer who loves to writes stuff about Coding and Technology.
+- 🔭 I'm a Open-Source Enthusiast, Coding Enthusiast, Developer and in Automation & Testing.
+- 🎲 I am passionate about Machine Learning, Web Dev, Microservices and solving Problems.
+- 👨‍💻 I'm always learning something new, and enjoy trying out new technologies.
 - ⚡ Fun fact about me: 👨‍💻🧡
-
 
 
 #### Connect with Me
