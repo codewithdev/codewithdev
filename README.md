@@ -7,7 +7,6 @@
 - 👯 A Tech Speaker, Mentor who loves to teach about Coding and Technology.
 - 👨‍💻 Coding Enthusiast, Software Developer, Automation & Testing
 - 🍏 A Tech writer who loves to writes stuff about Coding and Technology.
-- 😄 Pronouns: He/him
 - ⚡ Fun fact about me: 👨‍💻🧡
 
 
