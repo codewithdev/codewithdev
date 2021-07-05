@@ -24,7 +24,7 @@
 #### _Achievements_
 
 - _Linux Foundation OSS+ Embdded Linux Conference_ Attendee Scholarship Recipient 2019,2020, Lyon, France(GMT+2).
-- _ET Campus Star 3.0[https://www.facebook.com/ETCampusStar/photos/pcb.498489397477917/498489324144591/]_ Program. Finalist in the Campus Star 3.0 for showing thegreater enthusiasm in Leadership, Technology and Mentorship. The ET Campus Star is a renowned program for searching the brightest engineering students.
+- _[ET Campus Star 3.0](https://www.facebook.com/ETCampusStar/photos/pcb.498489397477917/498489324144591/)_ Program. Finalist in the Campus Star 3.0 for showing thegreater enthusiasm in Leadership, Technology and Mentorship. The ET Campus Star is a renowned program for searching the brightest engineering students.
 - Runner Up 🥈, _[The World Cubic Championship](https://www.worldcubeassociation.org/competitions/IITKanpurOpen2019)_, IIT Kanpur, for solving 3️✕3️✕3 Rubic's Cube in (27:13:00 Seconds).
 
 
