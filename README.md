@@ -9,6 +9,25 @@
 - 📚 A Tech writer who loves to write about coding and technologies.
 - ⚡ Fun fact about me: 👨‍💻🧡
 
+#### _Experience_ 
+
+- _GitHub Docs Team Project_:  Closely contributing to [GitHub Docs](https://docs.github.com) Project and worked on various articles, catalogs and REST APIs Documentation.
+ 
+- _[GitHub Campus Expert](https://githubcampus.expert/codewithdev/)_: Student Leadership program for creating an impact towards building an inclusive and diverse community. Working with other campus experts and contributing to Open-Source projects. Given workshops, talks and sessions on various technologies( Microsoft Azure, Git & GitHub, Open-Sourcing)
+
+- _[Microsoft Learn Student Ambassador]()_: During the Program, coducted sessions, workshops and talks on Microsoft Technologies, Azure AI, and Python which helped more than 700+ folks in campus. 
+- _[Technical Content Writer]()_: Created Tutorials and QnA on various technologies- C++, Linux, Data Structures, Python, Frameworks (Guava,Selenium etc.) and other included topics that gives more than 150K+ views everyday on the page. 
+<br>[Link][1](https://www.tutorialspoint.com/python_pillow/index.htm)[Link][2](https://www.tutorialspoint.com/pyqt5/index.htm)[Link][3](https://www.tutorialspoint.com/answers/dev-prakash-sharma)[Link][4](https://auth.geeksforgeeks.org/user/codewithdev/articles)
+
+- _[Google Code-in Mentor]()_: Mentored pre-university students to contribute in the Open-Source in one of the core projects of Tensorflow Community.
+
+#### _Achievements_
+
+- _Linux Foundation OSS+ Embdded Linux Conference_ Attendee Scholarship Recipient 2019,2020, Lyon, France(GMT+2).
+- _ET Campus Star 3.0[https://www.facebook.com/ETCampusStar/photos/pcb.498489397477917/498489324144591/]_ Program. Finalist in the Campus Star 3.0 for showing thegreater enthusiasm in Leadership, Technology and Mentorship. The ET Campus Star is a renowned program for searching the brightest engineering students.
+- Runner Up 🥈, _[The World Cubic Championship](https://www.worldcubeassociation.org/competitions/IITKanpurOpen2019)_, IIT Kanpur, for solving 3️⃣❌3️⃣❌3️⃣ Rubic's Cube in (27:13:00 Seconds).
+
+
 #### Connect with Me
   [<img src= "https://user-images.githubusercontent.com/44609609/124388598-3216e880-dd01-11eb-8b54-4f35a8fbd97b.png" width= "28px">](https://www.linkedin.com/in/idevprakaash)
 &emsp;
@@ -20,4 +39,4 @@
 
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodewithdev%2Fcodewithdev&count_bg=%230E0E0E&title_bg=%234D4B4B&icon=&icon_color=%23111A06&title=visitors&edge_flat=false)
+ ![visitors](https://page-views.glitch.me/badge?page_id=codewithdev.visitor.badge)
