@@ -32,7 +32,6 @@
   [<img src= "https://user-images.githubusercontent.com/44609609/124388598-3216e880-dd01-11eb-8b54-4f35a8fbd97b.png" width= "28px">](https://www.linkedin.com/in/idevprakaash)
 &emsp;
 [<img src="https://user-images.githubusercontent.com/44609609/124387382-06453400-dcfc-11eb-8cd6-ae9fcb6e23d1.png" width= "28px">](https://www.twitter.com/codewithdev)&emsp;
-&emsp;
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width= "28px">](https://dev.to/codewithdev)&emsp;
 [<img src= "https://user-images.githubusercontent.com/44609609/124388683-8cb04480-dd01-11eb-85e6-085b2b5420d8.png" width= "28px">](https://stackoverflow.com/users/13662843/codewithdev)
 
