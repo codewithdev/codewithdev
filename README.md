@@ -18,7 +18,7 @@
 
 - _[Microsoft Learn Student Ambassador]()_: During the Program, coducted sessions, workshops and talks on Microsoft Technologies, Azure AI, and Python which helped more than 700+ folks in campus. 
 - _[Technical Content Writer]()_: Created Tutorials and QnA on various technologies- C++, Linux, Data Structures, Python, Frameworks (Guava,Selenium etc.) and other included topics giving more than 150K+ views everyday on the page. 
-<br>[Link][1](https://www.tutorialspoint.com/python_pillow/index.htm)[Link][2](https://www.tutorialspoint.com/pyqt5/index.htm)[Link][3](https://www.tutorialspoint.com/answers/dev-prakash-sharma)[Link][4](https://auth.geeksforgeeks.org/user/codewithdev/articles)
+[Link][1](https://www.tutorialspoint.com/answers/dev-prakash-sharma)[Link][2](https://auth.geeksforgeeks.org/user/codewithdev/articles)
 
 - _[Google Code-in Mentor]()_: Mentored pre-university students to contribute in the Open-Source in one of the core projects of Tensorflow Community.
 
