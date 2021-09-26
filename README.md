@@ -6,7 +6,7 @@
 - 🔭 I'm a Open-Source Enthusiast, Coding Enthusiast, Developer and in Automation & Testing.
 - 🎲 I am passionate about AI, Machine Learning, Web Dev, Microservices and Problem solving. 
 - 👨‍💻 I'm always learning something new, and enjoy trying out new technologies.
-- 📚 A Tech writer who loves to write about coding and technologies.
+- 📚 A Tech writer who loves to write stuffs about coding and technologies.
 - ⚡ Fun fact about me: 👨‍💻🧡
 
 
