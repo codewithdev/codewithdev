@@ -12,6 +12,7 @@
 
 #### _Experience_ 
 
+- _Senior Technical Writer/Developer Community_: Contributing to [Chargebee Docs](https://www.chargebee.com/docs/2.0/index.html) on developer documentation, REST APIs & product documentation. Creating Developer community accessible to many developers, marketers as well as tech consumers.
 - _GitHub Docs Team Project_:  Closely contributing to [GitHub Docs](https://docs.github.com) Project and worked on various articles, catalogs and REST APIs Documentation.
  
 - _[GitHub Campus Expert](https://githubcampus.expert/codewithdev/)_: Student Leadership program for creating an impact towards building an inclusive and diverse community. Working with other campus experts and contributing to Open-Source projects. Given workshops, talks and sessions on various technologies( Microsoft Azure, Git & GitHub, Open-Sourcing)
