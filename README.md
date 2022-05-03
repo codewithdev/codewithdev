@@ -1,7 +1,7 @@
 ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm [Dev!](https://codewithdev.github.io)
 
 
-#### _About Me_
+#### About Me
 
 - 🔭 I'm a Open-Source Enthusiast, Coding Enthusiast, Developer and in Automation & Testing.
 - 🎲 I am passionate about AI, Machine Learning, Web Dev, Microservices and Problem solving. 
@@ -10,7 +10,7 @@
 - ⚡ Fun fact about me: 👨‍💻🧡
 
 
-#### _Experience_ 
+#### Experience
 
 - _Senior Technical Writer/Developer Community_: Contributing to [Chargebee Docs](https://www.chargebee.com/docs/2.0/index.html) on developer documentation, REST APIs & product documentation. Contributed and collaborated with the team to develop [DevBuzz](https://devbuzz.chargebee.com) Community.
 - _GitHub Docs Team Project_:  Closely contributed to [GitHub Docs](https://docs.github.com) Project and worked on various articles, catalogs and REST APIs Documentation.
@@ -23,7 +23,7 @@
 
 - _[Google Code-in Mentor]()_: Mentored pre-university students to contribute in the Open-Source in one of the core projects of Tensorflow Community.
 
-#### _Achievements_
+#### Achievements
 
 - _Linux Foundation OSS+ Embdded Linux Conference_ Attendee Scholarship Recipient 2019,2020, Lyon, France(GMT+2).
 - _[ET Campus Star 3.0](https://www.facebook.com/ETCampusStar/photos/pcb.498489397477917/498489324144591/)_ Program. Finalist in the Campus Star 3.0 for showing thegreater enthusiasm in Leadership, Technology and Mentorship. The ET Campus Star is a renowned program for searching the brightest engineering students.
