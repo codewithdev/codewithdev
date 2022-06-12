@@ -3,10 +3,10 @@
 
 #### About Me
 
-- 🔭 I'm a Open-Source Enthusiast, Developer and love to build Communities.
-- 🎲 I am passionate about AI, Machine Learning, Web Dev, Microservices and Problem solving. 
-- 👨‍💻 I'm always learning something new, and enjoy trying out new technologies.
-- 📚 A Tech writer and who loves to write content about coding and technologies.
+- 🔭 An Open Source enthusiast who loves to contribute and build new things.
+- 🎲 Passionate about Web3, AI, Machine Learning, Web Dev, and a problem slayer.
+- 👨‍💻 A curious learner who passionately learns about new technologies and developing technical communities.
+- 📚 A Tech writer who loves to write content about technologies.
 - ⚡ Fun fact about me: 👨‍💻🧡
 
 
@@ -27,7 +27,7 @@
 #### Achievements
 
 - _Linux Foundation OSS+ Embdded Linux Conference_ Attendee Scholarship Recipient 2019,2020, Lyon, France(GMT+2).
-- _[ET Campus Star 3.0](https://www.facebook.com/ETCampusStar/photos/pcb.498489397477917/498489324144591/)_ Program. Finalist in the Campus Star 3.0 for showing thegreater enthusiasm in Leadership, Technology and Mentorship. The ET Campus Star is a renowned program for searching the brightest engineering students.
+- _[ET Campus Star 3.0](https://www.facebook.com/ETCampusStar/photos/pcb.498489397477917/498489324144591/)_ Program. Finalist in the Campus Star 3.0 for showing thegreater enthusiasm in Leadership, Technology and Mentorship. The ET Campus Star is a renowned program searching the brightest engineering students.
 - Runner Up 🥈, _[The World Cubic Championship](https://www.worldcubeassociation.org/competitions/IITKanpurOpen2019)_, IIT Kanpur, for solving 3️✕3️✕3 Rubic's Cube in (27:13:00 Seconds).
 
 
