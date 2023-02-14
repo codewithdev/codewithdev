@@ -12,7 +12,7 @@
 
 #### Experience
 
-- (Previously) _Technical Writer/Developer Community_: Contributing to [Chargebee Docs](https://www.chargebee.com/docs/2.0/index.html) and [DevBuzz](https://devbuzz.chargebee.com) Community.
+- (Previously) _Technical Writer/Developer Community_: Contributed to [Chargebee Docs](https://www.chargebee.com/docs/2.0/index.html) and [DevBuzz](https://devbuzz.chargebee.com) Community.
 - _GitHub Docs Team Project_:  Closely contributed to [GitHub Docs](https://docs.github.com) Project and worked on various articles, catalogs and REST APIs Documentation.
 - _Personal AI_: Authored & Owned the API and SDK Documentation(internal/external) project for AI/Web3.0 based [Personal AI](https://personal.ai).
  
