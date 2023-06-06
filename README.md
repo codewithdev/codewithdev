@@ -40,5 +40,5 @@
 
 
 
- ![visitors](https://page-views.glitch.me/badge?page_id=codewithdev.visitor.badge)
+ ![Visitors](https://komarev.com/ghpvc/?username=codewithdev)
 
