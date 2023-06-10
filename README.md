@@ -1,4 +1,4 @@
-## Hey<img src="https://github.com/codewithdev/codewithdev/blob/master/assets/hi.gif" width="29px">,I'm [Dev!](https://codewithdev.github.io)
+## Hey<img src="https://github.com/codewithdev/codewithdev/blob/master/assets/hi.gif" width="7%">,I'm [Dev!](https://codewithdev.github.io)
 
 
 #### About Me
