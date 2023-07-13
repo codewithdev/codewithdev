@@ -14,7 +14,7 @@
 
 - (Previously) _Technical Writer/Developer Community_: Contributed to [Chargebee Docs](https://www.chargebee.com/docs/2.0/index.html) and majorly contributed to [DevBuzz](https://devbuzz.chargebee.com) Community.
 - _GitHub Docs Team Project_:  Closely contributed to [GitHub Docs](https://docs.github.com) Project and worked on various articles, catalogs and REST APIs Documentation.
-- _Personal AI_: Authored & Owned the API and SDK Documentation(internal/external) project for AI/Web3.0 based [Personal AI](https://personal.ai).
+- _Personal AI_: Core member of the product Dev team. Owned & Authored the API and SDK Documentation(internal/external) for [Personal AI](https://personal.ai).
  
 - _[GitHub Campus Expert](https://githubcampus.expert/codewithdev/)_: Student Leadership program for creating an impact towards building an inclusive and diverse community. Working with other campus experts and contributing to Open-Source projects. Given workshops, talks and sessions on various technologies( Microsoft Azure, Git & GitHub, Open-Sourcing)
 
