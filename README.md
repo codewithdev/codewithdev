@@ -43,6 +43,12 @@
 [<img src= "https://user-images.githubusercontent.com/44609609/124388683-8cb04480-dd01-11eb-85e6-085b2b5420d8.png" width= "28px">](https://stackoverflow.com/users/13662843/codewithdev)
 
 
+#### Social Activities
+
+X'es (X.com)
+
+<!-- START TWEETS -->
+<!-- END TWEETS -->
 
  ![Visitors](https://komarev.com/ghpvc/?username=codewithdev)
 
