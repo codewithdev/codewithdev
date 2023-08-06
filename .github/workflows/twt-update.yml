@@ -3,7 +3,7 @@ name: Recent x
 
 on:
   schedule:
-    - cron: '*/4 * * * *'  # Update tweets every 30 minutes. You can adjust the frequency as needed.
+    - cron: '/0 * * * *'  # Update tweets every 30 minutes. You can adjust the frequency as needed.
 
 jobs:
   update_tweets:
