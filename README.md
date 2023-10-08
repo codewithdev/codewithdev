@@ -3,7 +3,7 @@
 
 #### About Me
 
-- 🔭 An Open Source enthusiast who loves to contribute and build new things.
+- 🔭 Global community builder, tech enthusiast, open source developer, and an experienced Technical writer(Developers voice)
 - 🎲 Passionate about Web3, AI, Machine Learning, Web Dev, and a problem slayer.
 - 👨‍💻 A curious learner who passionately learns about new technologies and developing technical communities.
 - 📚 A Tech writer who loves to write content about technologies.
