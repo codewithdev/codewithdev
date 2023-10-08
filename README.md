@@ -3,11 +3,10 @@
 
 #### About Me
 
-- 🔭 Global community builder, tech enthusiast, open source developer, and an experienced Technical writer(Developers voice)
-- 🎲 Passionate about Web3, AI, Machine Learning, Web Dev, and a problem slayer.
-- 👨‍💻 A curious learner who passionately learns about new technologies and developing technical communities.
-- 📚 A Tech writer who loves to write content about technologies.
-- ⚡ Fun fact about me: 👨‍💻🧡
+- 🔭 Global community builder, tech enthusiast, open source developer, and an experienced Technical writer(Devs voice)
+- 🎲 Loves to **plan**, **collaborate**, **build**, and **ship** things out of web dev, AI and machine learning. (Problem slayer)
+- 👨‍💻 Curious learner and community builder(Devs evangelism)
+- Routines: 🚴☕️💰 and 👨‍💻
 
 
 #### Experience
