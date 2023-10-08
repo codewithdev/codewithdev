@@ -1,4 +1,4 @@
-## Hey<img src="https://github.com/codewithdev/codewithdev/blob/master/assets/hi.gif" width="29px">,I'm [Dev!](https://codewithdev.vercel.app)
+## Hey, I'm [Dev](https://codewithdev.vercel.app)
 
 
 #### About Me
@@ -14,15 +14,15 @@
 
 - (Previously) _Technical Writer/Developer Community_: Contributed to [Chargebee Docs](https://www.chargebee.com/docs/2.0/index.html) and majorly contributed to [DevBuzz](https://devbuzz.chargebee.com) Community.
 - _GitHub Docs Team Project_:  Closely contributed to [GitHub Docs](https://docs.github.com) Project and worked on various articles, catalogs and REST APIs Documentation.
-- _Personal AI_: Core member of the product Dev team. Owned & Authored the API and SDK Documentation(internal/external) for [Personal AI](https://personal.ai).
+- _[Personal AI](https://personal.ai)_: Core team member of product Dev team. Owned and authored API recipes, SDK, and product documentation.
  
 - _[GitHub Campus Expert](https://githubcampus.expert/codewithdev/)_: Student Leadership program for creating an impact towards building an inclusive and diverse community. Working with other campus experts and contributing to Open-Source projects. Given workshops, talks and sessions on various technologies( Microsoft Azure, Git & GitHub, Open-Sourcing)
 
-- _[Microsoft Learn Student Ambassador]()_: During the Program, coducted sessions, workshops and talks on Microsoft Technologies, Azure AI, and Python which helped more than 700+ folks in campus. 
+- _[Microsoft Learn Student Ambassador, 2019]()_: During the Program, coducted sessions, workshops and talks on Microsoft Technologies, Azure AI, and Python which helped more than 700+ folks in campus. 
 - _[Technical Content Writer]()_: Created Tutorials and QnA on various technologies- C++, Linux, Data Structures, Python, Frameworks (Guava,Selenium etc.) and other included topics giving more than 150K+ views everyday on the page. 
 [Link][1](https://www.tutorialspoint.com/answers/dev-prakash-sharma)[Link][2](https://auth.geeksforgeeks.org/user/codewithdev/articles)
 
-- _[Google Code-in Mentor]()_: Mentored pre-university students to contribute in the Open-Source in one of the core projects of Tensorflow Community.
+- _[Google Code-in Mentor]()_: Mentored pre-university students to contribute to the Open-Source in one of the core projects of Tensorflow Community.
 
 ### Project maintainer
 [![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithdev&repo=C-plus-plus-Algorithms)](https://github.com/codewithdev/C-plus-plus-Algorithms) 
@@ -36,7 +36,7 @@
 
 
 #### Connect with Me
-  [<img src= "https://user-images.githubusercontent.com/44609609/124388598-3216e880-dd01-11eb-8b54-4f35a8fbd97b.png" width= "28px">](https://www.linkedin.com/in/idevprakaash)
+[<img src= "https://user-images.githubusercontent.com/44609609/124388598-3216e880-dd01-11eb-8b54-4f35a8fbd97b.png" width= "28px">](https://www.linkedin.com/in/idevprakaash)
 &emsp;
 [<img src="https://user-images.githubusercontent.com/44609609/124387382-06453400-dcfc-11eb-8cd6-ae9fcb6e23d1.png" width= "28px">](https://www.twitter.com/codewithdev)&emsp;
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width= "28px">](https://dev.to/codewithdev)&emsp;
