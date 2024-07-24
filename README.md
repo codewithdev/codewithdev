@@ -42,7 +42,7 @@
 [<img src= "https://user-images.githubusercontent.com/44609609/124388683-8cb04480-dd01-11eb-85e6-085b2b5420d8.png" width= "28px">](https://stackoverflow.com/users/13662843/codewithdev)
 
 ### Listening to
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zaqmzia7hmpacxjzr7nxwh7h8&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zaqmzia7hmpacxjzr7nxwh7h8&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zaqmzia7hmpacxjzr7nxwh7h8&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zaqmzia7hmpacxjzr7nxwh7h8&redirect=true)
 
  ![Visitors](https://komarev.com/ghpvc/?username=codewithdev)
 
