@@ -3,7 +3,7 @@ import requests
 
 def fetch_quote():
     url = "https://api.api-ninjas.com/v1/quotes?category=knowledge"
-    api_key = os.getenv("API_NINJAS_KEY") 
+    api_key = os.getenv("API_NINJAS_KEY")
     headers = {
         "X-Api-Key": api_key 
     }
