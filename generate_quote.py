@@ -1,8 +1,13 @@
+import os
 import requests
 
 def fetch_quote():
-    url = "https://api.api-ninjas.com/v1/quotes?category=knowledge"  
-    response = requests.get(url)
+    url = "https://api.api-ninjas.com/v1/quotes?category=knowledge"
+    api_key = os.getenv("API_NINJAS_KEY") 
+    headers = {
+        "X-Api-Key": api_key 
+    }
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = response.json()
         return f"{data['content']} - {data['author']}"
