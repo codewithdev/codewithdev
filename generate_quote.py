@@ -10,9 +10,14 @@ def fetch_quote():
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = response.json()
-        return f"{data['content']} - {data['author']}"
+        if isinstance(data, list) and len(data) > 0:
+            quote_data=data[0]
+            return f"{quote_data['quote']} - {quote_data['author']}"
+        else:
+            return "No quotes for today."
     else:
         return "Could not fetch a quote."
+        
 
 quote = fetch_quote()
 
