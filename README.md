@@ -1,5 +1,6 @@
 #### Today on my Desk
-<!--QUOTE-->
+> Every branch of human knowledge, if traced up to its source and final principles, vanishes into mystery. - Arthur Machen
+
 
 
 ## Hey, I'm [Dev](https://codewithdev.vercel.app)
