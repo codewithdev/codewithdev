@@ -1,5 +1,5 @@
 #### Today on my Desk
-> Could not fetch a quote.
+<!--QUOTE-->
 
 
 ## Hey, I'm [Dev](https://codewithdev.vercel.app)
