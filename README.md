@@ -27,14 +27,14 @@
 [![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithdev&repo=C-plus-plus-Algorithms)](https://github.com/codewithdev/C-plus-plus-Algorithms) 
 [![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithdev&repo=NASA-APOD-Viewer)](https://github.com/codewithdev/NASA-APOD-Viewer)
 
-#### Achievements
+### Achievements
 
 - _Linux Foundation OSS+ Embdded Linux Conference_ Attendee Scholarship Recipient 2019,2020, Lyon, France(GMT+2).
 - _[ET Campus Star 3.0](https://www.facebook.com/ETCampusStar/photos/pcb.498489397477917/498489324144591/)_ Program. Finalist in the Campus Star 3.0 for showing thegreater enthusiasm in Leadership, Technology and Mentorship. The ET Campus Star is a renowned program searching the brightest engineering students.
 - Runner Up 🥈, _[The World Cubic Championship](https://www.worldcubeassociation.org/competitions/IITKanpurOpen2019)_, IIT Kanpur, for solving 3️✕3️✕3 Rubic's Cube in (27:13 Seconds).
 
 
-#### Connect with Me
+### Connect with Me 
 [<img src= "https://user-images.githubusercontent.com/44609609/124388598-3216e880-dd01-11eb-8b54-4f35a8fbd97b.png" width= "28px">](https://www.linkedin.com/in/idevprakaash)
 &emsp;
 [<img src="https://user-images.githubusercontent.com/44609609/124387382-06453400-dcfc-11eb-8cd6-ae9fcb6e23d1.png" width= "28px">](https://www.twitter.com/codewithdev)&emsp;
