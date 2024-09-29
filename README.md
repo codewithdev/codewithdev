@@ -1,5 +1,6 @@
 #### Today on my Desk🪴
-<!--QUOTE-->
+> Be ignorance thy choice, where knowledge leads to woe. - James Beattie
+
 
 ## Hey, I'm [Dev](https://codewithdev.vercel.app)
 
