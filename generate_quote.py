@@ -23,13 +23,12 @@ def fetch_quote():
 quote = fetch_quote()
 print(f"Fetched Quote: {quote}")
 
-# Update the README file with the new quote
+# Update a new quote
 with open("README.md", "r") as file:
-    lines = file.readlines()
-
-with open("README.md", "w") as file:
+    quotes_updated= False
     for line in lines:
-        if line.strip() == "<!--QUOTE-->":
-            file.write(f"> {quote}\n\n")
+        if line.strip().startswith("> ") and not quote_updated:
+            file.write(f"> {quote}\n")
+            quote_udpated = True
         else:
             file.write(line)
