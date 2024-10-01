@@ -26,7 +26,7 @@ print(f"Fetched Quote: {quote}")
 # Update a new quote
 with open("README.md", "r") as file:
     lines = file.readlines()
-with open("README.ms", "w") as file:
+with open("README.md", "w") as file:
     quotes_updated= False
     for line in lines:
         if line.strip().startswith("> ") and not quote_updated:
