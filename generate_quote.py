@@ -28,10 +28,8 @@ with open("README.md", "r") as file:
     lines = file.readlines()
 
 with open("README.md", "w") as file:
-    quote_updated = False
     for line in lines:
-        if line.strip().startswith("> ") and not quote_updated:
+        if "<!--QUOTE-->" in line:
             file.write(f"> {quote}\n")
-            quote_updated = True
         else:
             file.write(line)
