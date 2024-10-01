@@ -1,5 +1,5 @@
 #### Today on my Desk🪴
-<!--QUOTE-->
+> His priority did not seem to be to teach them what he knew, but rather to impress upon them that nothing, not even... knowledge, was foolproof. - J. K. Rowling
 
 
 ## Hey, I'm [Dev](https://codewithdev.vercel.app)
