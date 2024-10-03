@@ -1,5 +1,5 @@
 #### Today on my Desk🪴
-<!--QUOTE-->
+> Reading furnishes the mind only with materials of knowledge it is thinking that makes what we read ours. - John Locke
 
 ## Hey, I'm [Dev](https://codewithdev.vercel.app)
 
