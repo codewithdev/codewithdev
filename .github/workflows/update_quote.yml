@@ -17,12 +17,8 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install requests library
-        run: |
-          pip install requests
-
       - name: Run quote script
-        env:  # Pass the secret as an environment variable
+        env: 
           API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}  # Reference the secret
         run: python generate_quote.py
 
