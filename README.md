@@ -1,5 +1,5 @@
 #### Today on my Desk🪴
-<!--QUOTE-->
+> We must develop knowledge optimization initiatives to leverage our key learnings. - Scott Adams
 
 ## Hey, I'm [Dev](https://codewithdev.vercel.app)
 
