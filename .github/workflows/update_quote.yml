@@ -3,28 +3,32 @@ name: Update Daily Quote
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:  # Allows manual trigger
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Add explicit permissions
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+        
       - name: Set up Python
-        uses: actions/setup-python@v5  # Updated to v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+          
       - name: Install dependencies
         run: |
-         pip install requests
-
+          pip install requests
+          
       - name: Run quote script
-        env: 
-          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}  # Reference the secret
+        env:
+          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}
         run: python generate_quote.py
-
+        
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
